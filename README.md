@@ -8,11 +8,12 @@ webui in single html file.
 generate JSON from your data model.
 
 ## fully keyboard friendly
-thereis a keyboard way for any thing that this webui can do.
+there is a keyboard way for any thing that this webui can do.
 
 ### hotkeys
 - Enter: select & make
 - Space: make & edit
+- Tab Shift+Tab: auto complete
 - Del: remove & reset
 - Esc: quit
 - Left Right Up Down: move
